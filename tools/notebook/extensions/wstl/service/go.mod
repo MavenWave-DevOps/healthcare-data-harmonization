@@ -1,6 +1,6 @@
 module github.com/GoogleCloudPlatform/healthcare-data-harmonization/tools/notebook/extensions/wstl/service
 
-go 1.14
+go 1.17
 
 replace github.com/GoogleCloudPlatform/healthcare-data-harmonization/mapping_engine => ../../../../../mapping_engine
 
